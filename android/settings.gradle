@@ -1,0 +1,3 @@
+rootProject.name = 'goha_3228'
+
+include ':app'
